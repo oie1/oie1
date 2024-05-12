@@ -3,6 +3,7 @@
 #### They have sent me a "Cease and Desist" letter by mail, however, I have ignored them. [Here's the email](https://github.com/oie1/oie1/blob/main/shittypyroc%26d.md)!
 #### I am now hosting any projects that could be C&d-ed on my personal git, found here [git.denisland.ovh](https://git.denisland.ovh)
 #### And you can always check out my website - [denisland.ovh](https://denisland.ovh)
+#### (also wth do they mean license checking, there is no license to buy, the thing I removed was spyware that sends your panel url, ip and hostname to them, also the cherry api is currently down, so no one can use the panel, IWHTOUT REMOVING THE FIRKCING "LICENSE CHECK")
 <!--
 **oie1/oie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
