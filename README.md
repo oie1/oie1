@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi there 👋
+#### This is my old account, my new one is [@denisapain](https://github.com/denisapain), but it has been flagged by github due to some shitty people called Pyro
+#### They have sent me a "Cease and Desist" letter by mail, however, I have ignored them. [Here's the email](https://github.com/oie1/oie1/blob/main/shittypyroc%26d.md)!
+#### I am now hosting any projects that could be C&d-ed on my personal git, found here [git.denisland.ovh](https://git.denisland.ovh)
+#### And you can always check out my website - [denisland.ovh](https://denisland.ovh)
 <!--
 **oie1/oie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
